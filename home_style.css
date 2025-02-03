@@ -91,10 +91,10 @@ header{
 #pic{
     float: right;
     width: 25%;
-    margin-top: 1%;
+    margin-top: 2%;
     margin-right: 4%;
-    margin-bottom: 1.6%;
-    padding-bottom: 1.6%;
+    margin-bottom: 2%;
+    padding-bottom: 1%;
 }
 footer{
     background-color: #b1d6e0;
@@ -103,7 +103,7 @@ footer{
     width: 100%;
     text-align: center;
     font-family: Barlow Condensed;
-    font-size: 10px;
+    font-size: 0.6em;
     font-weight: 100;
 }
 /* #button{
